@@ -1,0 +1,15 @@
+{
+    "name": "FortiWatch IaC Security Scanning Workflow",
+    "description": "FortiWatch IaC Security Scanning Workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "HCL"
+    ],
+    "filePatterns": [
+        "*.hcl",
+        "*.nomad",
+        "*.tf"
+        "*.tfvars"
+        "*.workflow"
+    ]
+}
